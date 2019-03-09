@@ -15,6 +15,7 @@ cat << _EOF_ > ./tmp/hosts
 ::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
 $CONT_MAN_IP $CONT_HOSTNAME
 $COMP_MAN_IP $COMP_HOSTNAME
+$NET_MAN_IP  $NET_HOSTNAME
 _EOF_
 
 #
