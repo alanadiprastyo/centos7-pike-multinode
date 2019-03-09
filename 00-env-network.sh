@@ -1,7 +1,7 @@
 #!/bin/bash
 #Author1 = Utian Ayuba
 #Author2 = Alan Adi Prastyo
-#Env for Compute
+#Env for Network
 
 #load env os.conf
 source os.conf
